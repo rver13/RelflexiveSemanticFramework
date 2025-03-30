@@ -15,3 +15,5 @@ You may not:
 To request permission for any use beyond the above, contact: [Your Email or GitHub username].
 
 Copyright © 2025 Rishika Verma. All rights reserved.
+
+To request permission for any use beyond the above, contact: rver13@github or open an issue on this repository.
